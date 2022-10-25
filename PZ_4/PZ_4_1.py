@@ -1,8 +1,10 @@
-import math
-X = float(input('введи X:'))
-N = int(input('введи Y:'))
-a = 0
-frac = 1
-for i in range(N):
-    frac *= 2*i+1
-    a += ()
+x = float(input('х = '))
+n = int(input('n = '))
+p = x
+s = x
+k = 0
+for i in range(1, n+1):
+    k += 2
+    p *= (-1) * x * x / (k * (k + 1))
+    s += p
+print(s)
