@@ -1,6 +1,6 @@
-n = int(input('n = '))
+n = int(input('n = ')) #принимаем целое число в переменную
 s = 0.0
 p = n
-for i in range(1, n + 1):
+for i in range(1, n + 1): #тело цикла
     s += 1.0 / i ** p
-print(s)
+print(s) #вывод результата
