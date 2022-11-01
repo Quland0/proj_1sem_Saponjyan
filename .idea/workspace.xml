@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8ad8bed-28db-419b-98df-ad1492e0a7b0" name="Changes" comment="Commit #1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PZ_2/PZ_2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_2/PZ_2_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PZ_3/1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PZ_3/PZ_3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_3/PZ_3_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PZ_3/PZ_3_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_3/PZ_3_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PZ_4/PZ_4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_4/PZ_4_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PZ_4/PZ_4_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_4/PZ_4_2.py" afterDir="false" />
-    </list>
+    <list default="true" id="c8ad8bed-28db-419b-98df-ad1492e0a7b0" name="Changes" comment="Commit #1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="12f5087f-46fc-44cb-9748-ae9026fcf372" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -155,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666700874690</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Commit #1">
+      <created>1667306343751</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1667306343751</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
