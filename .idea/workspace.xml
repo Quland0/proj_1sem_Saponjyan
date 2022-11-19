@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c8ad8bed-28db-419b-98df-ad1492e0a7b0" name="Changes" comment="pz_7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PZ_7/PZ_7_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_7/PZ_7_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PZ_7/PZ_7_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_7/PZ_7_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,7 +230,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668860973044</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="pz_7">
+      <created>1668862069661</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1668862069661</updated>
+    </task>
+    <task id="LOCAL-00026" summary="pz_7">
+      <created>1668862112182</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1668862112182</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
