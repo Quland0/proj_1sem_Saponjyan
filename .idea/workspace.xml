@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8ad8bed-28db-419b-98df-ad1492e0a7b0" name="Changes" comment="pz_6">
+    <list default="true" id="c8ad8bed-28db-419b-98df-ad1492e0a7b0" name="Changes" comment="pz_7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PZ_6/PZ_6_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_6/PZ_6_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PZ_7/PZ_7_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_7/PZ_7_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/student/Документы/PycharmProiects/ИС-24/Proi_1sem_Kuriev",
+    "last_opened_file_path": "/home/student/Документы/PycharmProiects/ИС-23/proj_1sem_Saponjyan",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -216,7 +216,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667654705606</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="pz_6">
+      <created>1668860707757</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1668860707757</updated>
+    </task>
+    <task id="LOCAL-00024" summary="pz_7">
+      <created>1668860973044</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1668860973044</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,6 +249,7 @@
     <MESSAGE value="Commit #1" />
     <MESSAGE value="pz_5" />
     <MESSAGE value="pz_6" />
-    <option name="LAST_COMMIT_MESSAGE" value="pz_6" />
+    <MESSAGE value="pz_7" />
+    <option name="LAST_COMMIT_MESSAGE" value="pz_7" />
   </component>
 </project>
