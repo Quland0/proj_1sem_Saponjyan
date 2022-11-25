@@ -3,7 +3,12 @@
 #строке, заменив в нем все предыдущие вхождения его последней буквы на символ
 #«.» (точка). Например, слово «МИНИМУМ» надо преобразовать в «.ИНИ.УМ».
 #Количество пробелов между словами не изменять.
-a = input()
-a = a.split()
-list1 = a
-print(list1[1])
+a = "авиабомба"
+b = "."
+max = a[0]
+max_count = a.count(max)
+for buk in a:
+    if a.count(buk)>max_count:
+        max = buk
+        max_count = a.count(buk)
+print(a.replace(max,b,max_count-1))
