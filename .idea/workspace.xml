@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8ad8bed-28db-419b-98df-ad1492e0a7b0" name="Changes" comment="pz_7">
+      <change afterPath="$PROJECT_DIR$/game/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PZ_7/PZ_7_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_7/PZ_7_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +24,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="12f5087f-46fc-44cb-9748-ae9026fcf372" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -41,7 +39,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/student/Документы/PycharmProiects/ИС-24/Proi_1sem_Kuriev",
+    "last_opened_file_path": "/home/student/Документы/PycharmProiects/ИС-24",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -251,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668863198655</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="pz_7">
+      <created>1669372239005</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1669372239005</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
