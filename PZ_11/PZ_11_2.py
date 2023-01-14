@@ -9,4 +9,6 @@ for i in open('text18-19.txt', encoding='UTF-8'):
         d['буквы'] += 1
     elif i.isdigit():
         d['цифры'] += 1
-
+    else:
+        d['спец. символы'] += 1
+print('количество букв: ', d['буквы'])
